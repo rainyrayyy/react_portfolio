@@ -25,7 +25,7 @@ githubUrl: '#'
 },
 {
 id: 3,
-title: 'Todo Manager',
+title: 'To Do Manager',
 description: 'Kanban task board',
 longDesc: 'A full-featured task manager with columns and drag-and-drop support.',
 tech: ['JavaScript', 'HTML'],
